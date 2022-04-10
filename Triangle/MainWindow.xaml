@@ -10,6 +10,7 @@
     MinWidth="1920"
     MinHeight="1080"
     Title="Triangle"
+    Icon="icon.png"
     WindowState="Maximized">
     <Grid>
         <Grid.ColumnDefinitions>
